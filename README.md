@@ -1,4 +1,4 @@
-# Black Friday Sales Analysis using Regression
+# Black Friday Sales Analysis-Regression
 
 **Introduction:**
 This project analyzes Black Friday sales data to gain insights into consumer behavior and purchasing trends during the Black Friday sales event. The analysis utilizes regression techniques to understand the factors influencing purchase decisions.
